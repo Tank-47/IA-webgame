@@ -488,10 +488,10 @@ function showTips(ms){
 
 function win(){
     console.log("win");
-    window.location.href="Main.html?value="+anothergame;
+    window.location.href="index.html?value="+anothergame;
 }
 
 function lost(){
     console.log("lost");
-    window.location.href="Main.html?value="+anothergame;
+    window.location.href="index.html?value="+anothergame;
 }
